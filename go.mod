@@ -7,4 +7,7 @@ require (
 	github.com/samber/lo v1.47.0
 )
 
-require golang.org/x/text v0.16.0 // indirect
+require (
+	github.com/coder/websocket v1.8.13
+	golang.org/x/text v0.16.0 // indirect
+)
